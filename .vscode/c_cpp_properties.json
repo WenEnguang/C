@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**", // 包含工作区中的所有目录
+                "D:/MSYS2/ucrt64/include" // MSYS2 的标准库路径
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:/MSYS2/ucrt64/bin/gcc.exe", // MSYS2 的 GCC 路径
+            "cStandard": "c11", // C 语言标准
+            "cppStandard": "c++17", // C++ 语言标准
+            "intelliSenseMode": "gcc-x64" // IntelliSense 模式
+        }
+    ],
+    "version": 4
+}
