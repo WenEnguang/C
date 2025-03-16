@@ -1,0 +1,5 @@
+已知： char a[5],*p=a; 则以下正确的赋值语句是
+A；a="abcd"
+B; *a="abcd"
+C; p="abcd"
+D; *p="abcd"
