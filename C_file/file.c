@@ -1,3 +1,4 @@
+//从标准输入（stdin）读取一行字符，并将其写入到指定的文件中。
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
